@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/liveData"
+        android:title="Live Rate"
+        android:icon="@drawable/ic_baseline_live_tv_24"/>
+    <item
+        android:id="@+id/activeTask"
+        android:title="Active Task"
+        android:icon="@drawable/ic_baseline_add_task_24"/>
+    <item
+        android:id="@+id/mgCatalouge"
+        android:title="MG Catalogue"
+        android:icon="@drawable/ic_baseline_drag_indicator_24"/>
+        <item
+            android:id="@+id/wallet"
+            android:title="MG Wallet"
+            android:icon="@drawable/ic_baseline_account_balance_wallet_24"/>
+    <item
+        android:id="@+id/setting"
+        android:title="Settings"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+
+</menu>
